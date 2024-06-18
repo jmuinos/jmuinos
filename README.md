@@ -3,7 +3,7 @@
 ## 🚀 About Me:
 - 🖥️ **Coding Enthusiast**: Diving deep into the realms of **.NET** with a quest to master the Full Stack landscape.
 - 🏗️ **Architect in the Making**: Sharpening my skills in **ASP.NET Core**, **SQL Server**, **Angular**, and the vast world of **JavaScript**.
-- 🔧 **Design and Efficiency Craftsman**: Passionately implementing **Clean Architecture** and **UnitOfWork** to sculpt pristine, efficient code.
+- 🔧 **Design and Efficiency Craftsman**: Passionately implementing **Clean Architecture** and **DDD** to sculpt pristine, efficient code.
 
 ## 🌈 Beyond the Code:
 - 🧗‍♂️ **Peak Conqueror**: Scaling heights and embracing the thrill of climbing.
