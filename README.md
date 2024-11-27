@@ -14,7 +14,7 @@
 - 💞️ **Eager to Merge**: Creativity with technology in projects that ignite innovation and challenge the status quo.
 
 ## 📞 Get in Touch:
-- 📫 Connect with me on **[LinkedIn](www.linkedin.com/in/josemuinos)**
+- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/josemuinos)**
 - ✉️ Drop me an email at **josemuinhos@gmail.com**
 
 ## 🔍 A Glimpse into My World:
