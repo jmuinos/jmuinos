@@ -15,7 +15,7 @@
 
 ## 📞 Get in Touch:
 - 📫 Connect with me on **[LinkedIn](www.linkedin.com/in/josemuinos)**
-- ✉️ Drop me an email at **josemuinhos1@gmail.com**
+- ✉️ Drop me an email at **josemuinhos@gmail.com**
 
 ## 🔍 A Glimpse into My World:
 - ⚡ Balancing bytes and beats, code and chords, I find my creativity. The synergy between my passions fuels my professional prowess and personal growth.
