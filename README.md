@@ -1,8 +1,7 @@
 # 🌟 ¡Welcome! 🌟
 
 ## 🚀 About Me:
-- 🖥️ **Coding Enthusiast**: Diving deep into the realms of **.NET** with a quest to master the Full Stack landscape.
-- 🏗️ **Architect in the Making**: Sharpening my skills in **.NET**, **SQL Server**, **Angular**, **.NET MAUI**...
+- 🖥️ **Coding Enthusiast**: Diving deep into the realms of **.NET**, **Angular**, **.NET MAUI**, etc.  with a quest to master the Full Stack landscape.
 - 🔧 **Design and Efficiency Craftsman**: Passionately implementing **Clean Architecture** and **DDD** and applying **SOLID** principles to sculpt pristine, efficient code.
 
 ## 🌈 Beyond the Code:
